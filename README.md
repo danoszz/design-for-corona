@@ -29,7 +29,7 @@ We recognise that a poor implementation of the solution could create resentment 
 
 ## Colour
 
-- Try to prevent using red and green as safety indication. Using grey can be more realistic. (By Thomas Clever)
+- Try to prevent using red and green as safety indication. Using grey can be more realistic. [source](https://www.linkedin.com/feed/update/urn:li:activity:6653916776964902913?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6653916776964902913%2C6653939590812053504%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A6653916776964902913%2C6654009267374350337%29)
 
 ## Text
 
