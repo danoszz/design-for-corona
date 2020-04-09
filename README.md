@@ -1,10 +1,10 @@
-# Design for Corona
+# Design for COVID19 (WIP)
 
 > This repo is under construction, but please make PR's to help us create a set of guidelines
 
 Open-source guidelines how to design during for COVID19 related application.
 
-# Guidelines (WIP)
+# Guidelines
 
 These design principles are opiniated, but created by all of us.
 
@@ -27,7 +27,7 @@ We recognise that a poor implementation of the solution could create resentment 
 
 - Optimize legibility on every device
 
-## Color
+## Colour
 
 - Try to prevent using red and green as safety indication. Using grey can be more realistic. (By Thomas Clever)
 
